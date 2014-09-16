@@ -5,6 +5,7 @@ date: 10 Sep 2014
 categories: qiiq update
 ---
 
+
 #Debian (squeeze) on Soekris as firewall and proxy
 
 ![Soekris net5501]({{ site.url }}/assets/net5501_front.jpg)
@@ -19,7 +20,7 @@ We installed debian squeeze on the device.
 
 Here is the website that was helpful for the installation:
 
-* <a href="http://debian.takhis.net/soekris/soekris.html"> http://debian.takhis.net/soekris/soekris.html </a> 
+* <http://debian.takhis.net/soekris/soekris.html>
 
 We are running the following applications:
 
@@ -33,5 +34,9 @@ hasn't solved the problem. We want to setup net5501 as a firewall, but have not 
 the LAN will be unable to connect if the device intermittenly fails to boot up. 
 
 We installed debian on net5501 using pxeboot. We used PXE booting to install from a laptop running debian. We bought 
-a null modem from [snapdeal](www.snapdeal.com){_target=_blank} but it turned out that it wasn't one. It just a female-female db9 pin but we didn't know. 
+a null modem from [Snapdeal][] but it turned out that it wasn't one. It just a female-female db9 pin but we didn't know. 
 We got one from amazon.com and that one worked for us. So, if you are trying to connect via the serial port, make sure you have a proper null modem. 
+
+&copy; Anand A 2014
+
+[Snapdeal]: <http://www.snapdeal.com/> "Snapdeal"
