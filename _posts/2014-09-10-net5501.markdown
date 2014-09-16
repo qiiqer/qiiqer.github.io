@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Debian Squeeze on soekris net5501"
+date: 10 Sep 2014  
+categories: qiiq update
+---
+
+#Debian (squeeze) on Soekris as firewall and proxy
+
+![Soekris net5501]({{ site.url }}/assets/net5501_front.jpg)
+
+We needed a firewall as well as a proxy caching server. The old desktop we were using as a proxy server was running debian and
+squid proxy server. We wanted something compact capable of running debian.  
+
+We decided to use <a href="http://soekris.com" target="_tab"> soekris engineering's </a>  [net5501](http://soekris.com/products/net5501.html). The net5501 configuration is 450 MHZ Geode processor, 256 MB RAM, L1 Cache 128KB, 
+L2 Cache 128KB. The device can boot from a compact flash but we are using a 2.5" 320 GB laptop harddrive. We installed debian squeeze
+on the device. 
+
+Here is the website that was helpful for the installation:
+
+* <a href="http://debian.takhis.net/soekris/soekris.html"> http://debian.takhis.net/soekris/soekris.html </a> 
+
+We are running the following applications:
+
+* Squid proxy server 
+* Samba file sharing service
+	
+## Issues  
+
+We are using lvm and the device on bootup, sometimes fails because the /dev/vg_root is not populated. Setting, lvmwait and rootdelay
+is not helping either. We want to setup net5501 as a firewall, but have not done it because of this issue. Since, the computers in 
+the LAN will be unable to connect if the device intermittenly fails to boot up. 
+
+Installing debian was a little tough since this was our first experience. We used PXE booting to install from a laptop running debian. We bought 
+a null modem from www.snapdeal.com but it turned out that it wasn't one. It just a female-female db9 pin but we didn't know. We got one from amazon.com and that one worked for us. So, if you are trying to connect via the serial port, make sure you have a proper null modem. 
