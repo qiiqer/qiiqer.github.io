@@ -14,8 +14,8 @@ author :
   name : Anand A
   email : admin@qiiq.co.in 
   github : qiiqadmin
-  twitter : na
-  feedburner : na
+#  twitter : na
+#  feedburner : na
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
