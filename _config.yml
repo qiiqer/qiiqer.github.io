@@ -3,7 +3,7 @@ title: Clean Blog
 header-img: img/home-bg.jpg
 email: qiiqadmin@qiiq.co.in
 description: "Explore, learn, enjoy."
-baseurl: "/startbootstrap-clean-blog-jekyll"
+baseurl: "/"
 url: "http://qiiqer.github.io"
 twitter_username: ""
 github_username: qiiqadmin 
