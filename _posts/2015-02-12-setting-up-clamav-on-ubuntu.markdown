@@ -6,8 +6,7 @@ categories: linux ubuntu debian
 ---
 If you get a message saying virus definitions are out of date, just run the following:
 
-{% highlight bash %}
+<kbd>
 ubuntu@ubuntu:	sudo freshclam -v.
-{% endhighlight %}
-
+</kbd>
 
