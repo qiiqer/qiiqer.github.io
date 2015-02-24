@@ -2,7 +2,7 @@
 layout: post
 title: "Setting up bitbucket for git"
 date: 2014-10-01
-categories: git programming bitbucket
+categories: programming git
 ---
 Following are the outline steps to setup bitbucket four your source code version control using
 git. The following steps requires that you have already setup git on your machine.  

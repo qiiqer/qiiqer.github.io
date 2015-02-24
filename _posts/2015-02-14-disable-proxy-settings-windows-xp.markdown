@@ -2,7 +2,7 @@
 layout: post
 title: "Disable changing proxy settings in Windows XP"
 date: 2015-02-14
-categories: Windows XP Registry Setting Proxy Settings
+categories: windows registry
 ---
 1. In the run window, type *mmc*.
 2. Click on File, Add/Remove Snap In (or press control + m)
