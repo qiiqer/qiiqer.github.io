@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is shorting a stock"
+title: "Shorting a stock?"
 date: 2014-09-10
 categories: qiiq update
 ---
