@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Virus Definitions Out Of Date Message"
+title: "Clamav virus definitions out of date message"
 date: 2015-02-12
 categories: linux clamav
 ---
