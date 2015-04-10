@@ -10,14 +10,9 @@ Below is an attempt to apply the checklist on [AVT Natural Products Ltd](www.avt
 
 Understanding the business
 --------------------------
-- [X] Do I want to spend a lot of time learning about this business?
-
-    Yes, as this business seems cheap, no debt with knowledgable people on its board.
-
+- [] Do I want to spend a lot of time learning about this business?
 - [] How would you evaluate this business if you were to become its CEO?
-- [X] Can you describe how the business operates, in your own words?
-    This company produces marigold oleoresins and is one of the largest producers of this product in the world. They have
-    an exclusive supply-purchase pact with [Kemin Foods]()
+- [] Can you describe how the business operates, in your own words?
 - [] How does the business make money?
 - [] How has the business evolved over time?
 - [] In what foreign markets does the business operate, and what are the risks of operating in these countries?
