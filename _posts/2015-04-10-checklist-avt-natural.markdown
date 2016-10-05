@@ -12,15 +12,20 @@ Understanding the business
 --------------------------
 - [X] Do I want to spend a lot of time learning about this business?
 
-    Yes, as this business seems cheap, no debt with knowledgable people on its board.
+    Yes, as this business seems cheap, no debt with knowledgable people on its board. AVT Tea is another company 
+    that is popular in South India that has the same promoters. 
 
 - [] How would you evaluate this business if you were to become its CEO?
 - [X] Can you describe how the business operates, in your own words?
     This company produces marigold oleoresins and is one of the largest producers of this product in the world. They have
-    an exclusive supply-purchase pact with [Kemin Foods]()
+    an exclusive supply-purchase pact with [Kemin Foods](http://www.kemin.com/). Kemin foods is the largest producer of 
+    lutein which is used as an additive in nutrition supplement as well as food colouring. 
 - [] How does the business make money?
+     They 
 - [] How has the business evolved over time?
+     They are opening up a manufacturing facility in china. A subsidiary of the company is into instant tea business. 
 - [] In what foreign markets does the business operate, and what are the risks of operating in these countries?
+     It exports to US, EU. 
 
 Understanding the Business -- from the Customer Perspective
 -----------------------------------------------------------
