@@ -14,7 +14,7 @@ When you quit, I quit
 
 > "Honda-san, I want you to know that I'll quit when you quit."
 >
->  -- <cite> Takeo Fujisawa </cite>
+>  -- Takeo Fujisawa 
 
 Sangen Shugi,  Three Realities
   - Gen-ba, real place
