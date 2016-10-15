@@ -35,4 +35,6 @@ Humility, ask nicely
 
 ## Sigmoidal Curve, Charles Handy
 
+Monozukuri, how you do things matter not just the end result.
+
 [1]: https://read.amazon.in/kp/embed?asin=B00HTSZXBW&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_W4o9xb93BRR0Z
