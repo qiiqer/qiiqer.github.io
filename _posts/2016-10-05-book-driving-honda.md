@@ -10,20 +10,20 @@ Don't just copy or imitate
 
 Competition makes you better
 
-When you quit, I quit
+## When you quit, I quit
 
 > "Honda-san, I want you to know that I'll quit when you quit."
 >
 >  -- Takeo Fujisawa 
 
-Sangen Shugi,  Three Realities
+## Sangen Shugi,  Three Realities
   - Gen-ba, real place
   - Gen-butsu, real part
   - Gen-jitsu, real facts
 
 Don't piss on our dreams
 
-Three Ways
+## Three Ways
   - Joy of creation
   - Joy of selling
   - Joy of buying
@@ -31,8 +31,8 @@ Three Ways
 
 Least automated automaker
 
-Humility
+Humility, ask nicely
 
-Sigmoidal Curve, Charles Handy
+## Sigmoidal Curve, Charles Handy
 
 [1]: https://read.amazon.in/kp/embed?asin=B00HTSZXBW&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_W4o9xb93BRR0Z
