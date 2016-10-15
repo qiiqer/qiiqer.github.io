@@ -17,16 +17,16 @@ Competition makes you better
 >  -- Takeo Fujisawa 
 
 ## Sangen Shugi,  Three Realities
-  - Gen-ba, real place
-  - Gen-butsu, real part
-  - Gen-jitsu, real facts
+- Gen-ba, real place
+- Gen-butsu, real part
+- Gen-jitsu, real facts
 
 Don't piss on our dreams
 
 ## Three Ways
-  - Joy of creation
-  - Joy of selling
-  - Joy of buying
+- Joy of creation
+- Joy of selling
+- Joy of buying
 
 
 Least automated automaker
