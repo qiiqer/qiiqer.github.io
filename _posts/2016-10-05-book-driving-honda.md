@@ -10,7 +10,10 @@ Don't just copy or imitate
 
 Competition makes you better
 
-"When you quit, I quit"
+When you quit, I quit
+
+> "Honda-san, I want you to know that I'll quit when you quit."
+>> <cite> Takeo Fujisawa </cite>
 
 Sangen Shugi,  Three Realities
   - Gen-ba, real place
