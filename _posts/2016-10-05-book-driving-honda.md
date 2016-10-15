@@ -6,13 +6,24 @@ categories: Book Notes
 
 # [Driving Honda by Jeffrey Rothfeder] [1]
 
+Don't just copy or imitate
+
+Competition makes you better
+
 "When you quit, I quit"
 
-Three Realities
+Sangen Shugi,  Three Realities
+  - Gen-ba, real place
+  - Gen-butsu, real part
+  - Gen-jitsu, real facts
 
 Don't piss on our dreams
 
 Three Ways
+  - Joy of creation
+  - Joy of selling
+  - Joy of buying
+
 
 Least automated automaker
 
